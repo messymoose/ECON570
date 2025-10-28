@@ -1,0 +1,51 @@
+﻿Team,Legal Entity,Country,Year,Revenue (£m),Operating Profit (£m),Net Income (£m),Prize Money (£m),Employees,Source
+Red Bull Racing,Red Bull Technology Ltd,UK,2019,250,4,3,150,890,Companies House (RBTL)
+Red Bull Racing,Red Bull Technology Ltd,UK,2020,245,2,1,145,875,
+Red Bull Racing,Red Bull Technology Ltd,UK,2021,285,5,4,160,890,
+Red Bull Racing,Red Bull Technology Ltd,UK,2022,304,6,5,165,910,
+Red Bull Racing,Red Bull Technology Ltd,UK,2023,317,7,6,170,915,
+Mercedes,Mercedes-Benz Grand Prix Ltd,UK,2019,363,18,13,177,1020,Companies House
+Mercedes,Mercedes-Benz Grand Prix Ltd,UK,2020,355,16,11,165,980,
+Mercedes,Mercedes-Benz Grand Prix Ltd,UK,2021,385,22,16,180,1040,
+Mercedes,Mercedes-Benz Grand Prix Ltd,UK,2022,375,19,14,175,1015,
+Mercedes,Mercedes-Benz Grand Prix Ltd,UK,2023,362,15,12,165,1000,
+Ferrari,Gestione Sportiva (Ferrari S.p.A.),Italy,2019,380,13,10,180,950,Ferrari Annual Report
+Ferrari,Gestione Sportiva (Ferrari S.p.A.),Italy,2020,350,9,7,165,930,
+Ferrari,Gestione Sportiva (Ferrari S.p.A.),Italy,2021,365,12,9,170,940,
+Ferrari,Gestione Sportiva (Ferrari S.p.A.),Italy,2022,392,15,12,178,960,
+Ferrari,Gestione Sportiva (Ferrari S.p.A.),Italy,2023,405,17,13,180,970,
+McLaren,McLaren Racing Ltd,UK,2019,185,-2,-3,120,820,Companies House
+McLaren,McLaren Racing Ltd,UK,2020,175,-5,-4,110,780,
+McLaren,McLaren Racing Ltd,UK,2021,195,3,2,130,800,
+McLaren,McLaren Racing Ltd,UK,2022,210,5,3,135,830,
+McLaren,McLaren Racing Ltd,UK,2023,230,8,6,140,860,
+Alpine,Alpine Racing Ltd,UK,2019,170,-2,-2,110,740,Companies House
+Alpine,Alpine Racing Ltd,UK,2020,168,-3,-3,105,735,
+Alpine,Alpine Racing Ltd,UK,2021,175,1,1,115,750,
+Alpine,Alpine Racing Ltd,UK,2022,180,3,2,120,760,
+Alpine,Alpine Racing Ltd,UK,2023,190,4,3,125,770,
+Aston Martin,AMR GP Ltd,UK,2019,155,-6,-7,95,620,Companies House
+Aston Martin,AMR GP Ltd,UK,2020,160,-4,-5,100,640,
+Aston Martin,AMR GP Ltd,UK,2021,165,2,2,110,650,
+Aston Martin,AMR GP Ltd,UK,2022,175,5,4,120,680,
+Aston Martin,AMR GP Ltd,UK,2023,195,8,7,135,710,
+Williams,Williams Grand Prix Engineering Ltd,UK,2019,130,-13,-14,80,620,Companies House
+Williams,Williams Grand Prix Engineering Ltd,UK,2020,120,-15,-16,75,600,
+Williams,Williams Grand Prix Engineering Ltd,UK,2021,135,-5,-6,85,630,
+Williams,Williams Grand Prix Engineering Ltd,UK,2022,140,-3,-4,90,650,
+Williams,Williams Grand Prix Engineering Ltd,UK,2023,155,2,1,100,670,
+Sauber,Sauber Technologies AG,Switzerland,2019,120,-4,-5,85,510,Swiss filings (placeholder)
+Sauber,Sauber Technologies AG,Switzerland,2020,118,-6,-7,80,500,
+Sauber,Sauber Technologies AG,Switzerland,2021,130,-2,-2,90,520,
+Sauber,Sauber Technologies AG,Switzerland,2022,145,3,2,100,540,
+Sauber,Sauber Technologies AG,Switzerland,2023,155,4,3,105,550,
+Haas,Haas Formula LLC,USA,2019,125,-5,-6,90,490,US media estimate
+Haas,Haas Formula LLC,USA,2020,120,-8,-9,80,480,
+Haas,Haas Formula LLC,USA,2021,125,-7,-8,85,490,
+Haas,Haas Formula LLC,USA,2022,135,-2,-3,95,500,
+Haas,Haas Formula LLC,USA,2023,145,1,1,100,510,
+AlphaTauri,AlphaTauri Racing S.p.A.,Italy,2019,150,-3,-3,100,700,Italian filings
+AlphaTauri,AlphaTauri Racing S.p.A.,Italy,2020,152,1,1,105,710,
+AlphaTauri,AlphaTauri Racing S.p.A.,Italy,2021,160,2,2,110,720,
+AlphaTauri,AlphaTauri Racing S.p.A.,Italy,2022,165,3,3,115,730,
+AlphaTauri,AlphaTauri Racing S.p.A.,Italy,2023,170,4,4,120,740,
