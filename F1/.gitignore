@@ -1,1 +1,5 @@
 fastf1_http_cache.sqlite
+*.ff1pkl
+*.sqlite
+fastf1_cache/
+F1/**/fastf1_cache/
